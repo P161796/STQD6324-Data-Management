@@ -1,6 +1,6 @@
 # Iris Classification using Spark MLlib
 
-## Project Overview
+## Project overview
 
 This project uses Spark MLlib to classify iris flower species based on sepal and petal measurements. The dataset used is the Iris dataset, which contains three flower species and four numerical features.
 
