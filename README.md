@@ -56,6 +56,7 @@ The workflow of this project includes the following steps:
 
 The table below summarises the model evaluation results obtained from the notebook.
 
+
 | Model | Accuracy | Precision | Recall | F1-score |
 |---|---:|---:|---:|---:|
 | Logistic Regression | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
